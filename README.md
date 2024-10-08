@@ -1,1 +1,1 @@
-# Car-Sales-Dashbaord
+Live dashbaord Link:- (https://app.powerbi.com/view?r=eyJrIjoiZjRhZTM4NmMtNDhlMi00MWI0LWI3NjUtN2EzNzU1NDU3OTBhIiwidCI6IjYxMTQ0YWU1LWU3MDYtNDBhMS1iMGUyLWM3ZjY0NTY0MWE2OCIsImMiOjEwfQ%3D%3D)
